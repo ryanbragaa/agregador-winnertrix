@@ -8,11 +8,11 @@ function toggleMode() {
     // substituir a imagem
     if(html.classList.contains('light')) {
         //se tiver light mode, adicionar a imagem light
-        img.setAttribute('src', './assets/foto-cantos-arredondados-aline.png')
+        img.setAttribute('src', './assets/image-agregador-links-desenho.png')
         img.setAttribute('alt', 'WinnerTrix com o fundo da cor branco')
     } else {
         // se tiver sem light mode, manter a imagem normal
-        img.setAttribute('src', './assets/foto-cantos-arredondados-aline.png')
+        img.setAttribute('src', './assets/image-agregador-links-desenho.png')
         img.setAttribute('alt', 'WinnerTrix com o fundo da cor branco')
     }
 
